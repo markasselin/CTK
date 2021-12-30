@@ -39,7 +39,6 @@ else()
       RenderingOpenGL2
       ViewsCore
       ViewsInfovis
-      WrappingPythonCore
       ViewsContext2D
       ${_test_components}
     )
